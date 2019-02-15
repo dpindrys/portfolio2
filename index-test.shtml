@@ -1,0 +1,219 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David Pindrys</title>
+    <link rel="stylesheet" href="css/app.css">
+    <script src="https://use.fontawesome.com/675f0afb3b.js"></script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="header-container">
+      <div class="auto cell header" style="background-color: #eee !important; z-index: 99999999;">
+      <div class="grid-x grid-container grid-container-padded">
+        <div class="small-6 large-10 cell text-left" >
+          <p><a href="index.html">David Pindrys</a></p>
+        </div>
+        <div class="small-3 large-1 cell text-left" >
+          <p ><a href="index.html" style="border-bottom: 2px dotted #666">Home</a></p>
+        </div>
+        <div class="small-3 large-1 cell text-right">
+          <a href="about.html"><p>About</p></a>
+        </div>
+      </div>
+      </div>
+    </div>
+
+    <div class="container-grey">
+    <!-- <div class="grid-container grid-container-padded" >
+      <div class="grid-x ">
+        <div class="medium-10 cell">
+          <h1 class="serif" style="margin: 1em 0 1em 0">Hello!<br>I'm David. I'm a designer that likes to organize information, design interactions and help communicate a brand's central idea.</h1>
+          <p style="margin-top: -1em"><a href="about.html">Learn more about me</a></p>
+        </div>
+      
+
+      </div>
+
+    </div>
+  -->
+      
+
+
+      
+
+    
+
+     
+      
+      
+
+
+    
+<div class="project-row">
+  <div class="grid-x">
+          <div class="medium-12 large-4 cell project-info ovcp">
+                <h4 class="title">Making meetings meaningful</h4>
+                <!-- <p class="tags"><span>User Research</span> <span>UX Design</span> <span>Protyping</span></p> -->
+                <div class="description-container">
+                  <p><strong>Weave by Conteneo</strong></p>
+                  <p>Weave is a web-based software platform that helps teams brainstorm and prioritize things at scale.</p>
+                  <br>
+                  <p><strong>My role</strong></p>
+                  <p class="description">As the design lead, I was involved in the entire process of reinventing Conteneo's flagship software.</p>
+
+                  <a data-open="weaveModal"><p class="case-study-button">View case study</p></a>
+                </div>
+
+              </div>
+              <div class="medium-12 large-8 cell project-th">
+              <img src="img/projects/weave/projects-shot.png">
+            </div>
+            </div>
+        
+          </div>
+
+     
+          <div class="full reveal" id="weaveModal" data-reveal data-animation-in="slide-in-up" data-animation-out="slide-out-down">
+            <button class="close-button" data-close aria-label="Close reveal" type="button">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <!--#include file="weave2.html" -->
+          
+        </div>
+
+
+
+
+        
+<div class="project-row">
+  <div class="grid-x">
+          <div class="medium-12 large-4 cell project-info ovcp">
+                <h4 class="title">Prototyping an EHR for doctors</h4>
+                <!-- <p class="tags"><span>User Research</span> <span>UX Design</span> <span>Protyping</span></p> -->
+               <div class="description-container">
+                  <p><strong>The Optimal Vision Care Prototype</strong></p>
+                  <p class="description">Commissioned by the DoD, the Optimal Vision Care Prototype aimed to design and test novel ways for vision care specialists to use an EHR.</p>
+                  <br>
+                  <p><strong>My role</strong></p>
+                  <p>As a UX designer on the project, I consulted with clincians about their woes and flows when using an EHR, designed new functionality that would help them with their troubles, and conceived and lead the formative testing process.</p>
+
+                  <p class="case-study-button"><a href="ovcp.html">View case study</a></p>
+                </div>
+
+              </div>
+              <div class="medium-12 large-8 cell project-th">
+              <img src="img/projects/ovcp/32slides/32.036.png">
+            </div>
+            </div>
+        
+          </div>
+
+<div class="project-row">
+  <div class="grid-x">
+          <div class="medium-12 large-4 cell project-info ovcp">
+                <h4 class="title">Personalized health insurance decisions</h4>
+                <!-- <p class="tags"><span>User Research</span> <span>UX Design</span> <span>Protyping</span></p> -->
+                <div class="description-container">
+                  <p><strong>Picwell</strong></p>
+                  <p class="description">Picwell is an app to help patients on Medicare find the right Medicare Part D plan for them based on their location and prescriptions.</p>
+                  <br>
+                  <p><strong>My role</strong></p>
+                  <p>I designed, tested and iteratred user flows for Picwell.</p>
+
+                  <p class="case-study-button"><a href="picwell.html">View case study</a></p>
+                </div>
+
+              </div>
+              <div class="medium-12 large-8 cell project-th">
+              <img src="img/projects/picwell/landing_top.png">
+            </div>
+            </div>
+        
+          </div>
+      
+
+<div class="project-row">
+  <div class="grid-x">
+          <div class="medium-12 large-4 cell project-info ovcp">
+                <h4 class="title">Food quality in our neighborhood</h4>
+                <!-- <p class="tags"><span>User Research</span> <span>UX Design</span> <span>Protyping</span></p> -->
+                <div class="description-container">
+                  <p><strong>CHPH Food Allies</strong></p>
+                  <p class="description">The CHPH Food Allies are a group of neighborhood residents focused on improving food, health & quality of life in our neighborhood.</p>
+                  <br>
+                  <p><strong>My role</strong></p>
+                  <p>For their annual Health and Harvest Fair, I helped the Food Allies organize the events list, designed the program that would let attendees easily find and attend events at the fair, and worked with a cartographer to design a community food map.</p>
+                  <a href="foodallies.html"><p class="case-study-button">View case study</p></a>
+                </div>
+
+              </div>
+              <div class="medium-12 large-8 cell project-th text-center">
+                
+
+                <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
+  <div class="orbit-wrapper">
+    <!-- <nav class="orbit-bullets">
+    <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
+    <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+    <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+    <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+  </nav> -->
+    <div class="orbit-controls">
+      <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+      <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+    </div>
+    <ul class="orbit-container">
+      <li class="is-active orbit-slide">
+        <figure class="orbit-figure">
+          <img class="orbit-image" src="img/projects/foodallies/program_pdf.jpg" alt="Program">
+    
+        </figure>
+      </li>
+      <li class="orbit-slide">
+        <figure class="orbit-figure">
+          <img class="orbit-image" src="img/projects/foodallies/map_pdf.jpg" alt="Map">
+          
+        </figure>
+      </li>
+      
+    </ul>
+  </div>
+  
+</div>
+
+
+            </div>
+            </div>
+        
+          </div>
+
+      
+
+        <div class="container-grey footer">  
+          <div class="grid-container">
+            <div class="grid-x">
+              <div class="medium-12 text-center">
+                <p>Thanks for stoppin' by! Shoot me an email at <a href="mailto:dpindrys@gmail.com" target="blank">dpindrys@gmail.com</a><br><br>
+                  <a href="mailto:dpindrys@gmail.com" target="blank"><i class="fa fa-envelope fa-2x"></i></a>
+                  <a href="https://www.facebook.com/dpindrys" target="blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/dpindrys/" target="blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://www.behance.net/DPINDRYSa745" target="blank"><i class="fa fa-behance-square fa-2x"></i></a>
+                  <a href="https://dribbble.com/dpindrys" target="blank"><i class="fa fa-dribbble fa-2x"></i></a>
+
+              </div>
+              
+          </div>
+        </div>
+      </div>
+
+ 
+    </div>
+
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/what-input/dist/what-input.js"></script>
+    <script src="bower_components/foundation-sites/dist/js/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
